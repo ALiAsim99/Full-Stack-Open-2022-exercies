@@ -7,7 +7,7 @@ const StatisticLine=(props)=>{
     <tbody>
     <tr>
       <td>
-    <p>{props.text} {props.value}</p> 
+    <p>{props.text} : {props.value}</p> 
       </td>
     </tr>
     </tbody>
